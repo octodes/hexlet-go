@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./greeting" // Относительный импорт
+	"./greeting"
 )
 
 func main() {
