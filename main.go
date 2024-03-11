@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./greeting"
+	"github.com/octodes/hexlet-go/greeting"
 )
 
 func main() {
