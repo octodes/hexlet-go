@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(greeting.Get())
+	fmt.Println(greeting.Hello())
 }
